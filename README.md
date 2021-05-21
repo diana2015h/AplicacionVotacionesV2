@@ -1,3 +1,3 @@
 # AplicacionVotacionesV2
 Segunda Versión de sistemas de aplicaciones 
-esta informacion es de visual estudio code 
+esta informacion se debeb subir a github 
